@@ -15,3 +15,6 @@ Repositório feito para praticar e aperfeiçoar meus conhecimentos para com rela
 4- Para que o código fique mais legpivel e de fácil manutenção, foi utilizado algumas das ferramentas que o Paradigma de Orientação a Objetos (POO) nos oferece: Abstração, Encapsulamento, Herança e Polimorfismo
 
 5- E para representar Classes que foram criadas e relacionadas, as trasnformei em Objetos
+## Implementação de Referência
+
+ - [Repositório Original do Desafio](https://github.com/cami-la/desafio-poo-dio)
